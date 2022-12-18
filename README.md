@@ -12,4 +12,4 @@ Fet amb Unreal Engine v4.27 i blueprints
 ![imagen](https://user-images.githubusercontent.com/4147225/208317777-65700d9f-5dc0-419b-ba26-d394e8f6ad36.png)
 
 ## Source code
-Penjaré el codi font tant aviat com aconsegueixi circumnavegar el límit de pes de Github
+Penjaré el codi font tant aviat com aconsegueixi circumnavegar el límit de pes de Github sense pagar
